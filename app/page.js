@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client";
 import { Provider } from "react-redux";
 import { store } from "./store/store";
 import ComboForm from "./components/ComboForm";
